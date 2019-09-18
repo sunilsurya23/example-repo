@@ -1,2 +1,4 @@
 #example repository
-This is a smaple repo, hello world!
+This is a smaple repo, hello world! hello people
+
+This is second page.
